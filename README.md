@@ -1,6 +1,6 @@
-<!-- Header Animado com as suas cores (Roxo/Vermelho) -->
+<!-- Header Animado Corrigido com cores Roxo/Vermelho -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=João+Augusto+E.+Neto;Desenvolvedor+Fullstack;Transformando+ideias+em+código...🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=550&lines=Jo%C3%A3o+Augusto+E.+Neto;Desenvolvedor+Fullstack;Transformando+ideias+em+c%C3%B3digo...%F0%9F%9A%80" alt="João Augusto Evangelista Neto" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <!-- Apresentação Minimalista -->
 <div align="center">
   <p>
-    Olá! Sou o <strong>João Augusto</strong>, desenvolvedor Fullstack focado em criar aplicações robustas, eficientes e escaláveis. 
+    Olá! Sou o <strong>João Augusto</strong>, desenvolvedor Fullstack 👨🏻‍💻 focado em criar aplicações robustas, eficientes e escaláveis. 
     Abaixo você pode ver minhas habilidades, o que ando estudando e minhas métricas de código em tempo real.
   </p>
 </div>
@@ -75,13 +75,6 @@
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7lu8zwpgn036xnvgui1toag0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify" />
   </a>
-</div>
-
----
-
-### 🎯 Dev Joke (Para descontrair)
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula&bgColor=282a36&borderColor=9400D3&qColor=ff5555&aColor=f1fa8c" alt="Joke do dia" />
 </div>
 
 ---
