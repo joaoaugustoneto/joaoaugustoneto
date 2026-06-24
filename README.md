@@ -46,7 +46,7 @@
 ### 📊 Minhas Estatísticas (Tema Dracula/Roxo)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaugustoneto&show_icons=true&theme=dracula&title_color=ff5555&icon_color=ff79c6&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaugustoneto&show_icons=true&theme=dracula&title_color=ff5555&icon_color=ff79c6"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugustoneto&layout=compact&langs_count=7&theme=dracula&title_color=ff5555&icon_color=ff79c6"/>
 </div>
 
@@ -56,6 +56,8 @@
   <!-- Card de Linhas de Código e Commits Totais -->
   <img height="55em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoaugustoneto&theme=dracula&background=282a36&ring=ff5555&sideNums=ff79c6" alt="Streak Stats" />
 </div>
+
+<br/>
 
 ---
 
