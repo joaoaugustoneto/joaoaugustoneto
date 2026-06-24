@@ -72,9 +72,8 @@
 
 ### 🎵 Ouvindo Agora no Spotify
 <div align="center">
-  <!-- Card dinâmico do Spotify (Instruções de ativação abaixo se necessário) -->
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_UID_AQUI&cover_image=true&theme=dark&bar_color=9400D3&bar_color_cover=true" alt="Spotify" />
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7lu8zwpgn036xnvgui1toag0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify" />
   </a>
 </div>
 
