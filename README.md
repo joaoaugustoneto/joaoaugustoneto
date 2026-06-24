@@ -1,4 +1,3 @@
-<!-- Header Animado Corrigido com cores Roxo/Vermelho -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=550&lines=Jo%C3%A3o+Augusto+E.+Neto;Desenvolvedor+Fullstack;Transformando+ideias+em+c%C3%B3digo..." alt="João Augusto Evangelista Neto" />
 </div>
