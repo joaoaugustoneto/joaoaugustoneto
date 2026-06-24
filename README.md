@@ -1,6 +1,6 @@
 <!-- Header Animado Corrigido com cores Roxo/Vermelho -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=550&lines=Jo%C3%A3o+Augusto+E.+Neto;Desenvolvedor+Fullstack;Transformando+ideias+em+c%C3%B3digo...%F0%9F%9A%80" alt="João Augusto Evangelista Neto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=550&lines=Jo%C3%A3o+Augusto+E.+Neto;Desenvolvedor+Fullstack;Transformando+ideias+em+c%C3%B3digo..." alt="João Augusto Evangelista Neto" />
 </div>
 
 <br/>
@@ -15,15 +15,15 @@
 
 ---
 
-### 🔭 O que ando aprontando
+### O que ando aprontando
 
-- 📚 **Atualmente estudando:** Bancos de Dados Relacionais, `.NET`, `C#`, `C`, `Python`, `JavaScript`, `TypeScript`, `Java`, `React`, `HTML/CSS` e conceitos de `UI/UX`.
-- 🤝 **Colaboração:** Estou totalmente aberto a colaborar em **projetos de desenvolvimento** inovadores e iniciativas open-source.
-- 📫 **Contato direto:** [evangelistanetojoaoaugusto@gmail.com](mailto:evangelistanetojoaoaugusto@gmail.com)
+- **Atualmente estudando:** Bancos de Dados Relacionais, `.NET`, `C#`, `C`, `Python`, `JavaScript`, `TypeScript`, `Java`, `React`, `HTML/CSS` e conceitos de `UI/UX`.
+- **Colaboração:** Estou totalmente aberto a colaborar em **projetos de desenvolvimento** inovadores e iniciativas open-source.
+- **Contato direto:** [evangelistanetojoaoaugusto@gmail.com](mailto:evangelistanetojoaoaugusto@gmail.com)
 
 ---
 
-### 🛠️ Meu Arsenal Técnico (Skills)
+### Meu Arsenal Técnico (Skills)
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas (Tema Dracula/Roxo)
+### Minhas Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaugustoneto&show_icons=true&theme=dracula&title_color=ff5555&icon_color=ff79c6"/>
@@ -61,7 +61,7 @@
 
 ---
 
-### 🐍 Jogo da Cobrinha (Histórico de Contribuições)
+### Jogo da Cobrinha (Histórico de Contribuições)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoaugustoneto/joaoaugustoneto/output/github-contribution-grid-snake-dark.svg">
@@ -72,7 +72,7 @@
 
 ---
 
-### 🎵 Ouvindo Agora no Spotify
+### Ouvindo Agora no Spotify
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7lu8zwpgn036xnvgui1toag0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify" />
@@ -81,7 +81,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+### Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-evangelista-neto-586230360/" target="_blank">
