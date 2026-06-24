@@ -19,7 +19,6 @@
 
 - **Atualmente estudando:** Bancos de Dados Relacionais, `.NET`, `C#`, `C`, `Python`, `JavaScript`, `TypeScript`, `Java`, `React`, `HTML/CSS` e conceitos de `UI/UX`.
 - **Colaboração:** Estou totalmente aberto a colaborar em **projetos de desenvolvimento** inovadores e iniciativas open-source.
-- **Contato direto:** [evangelistanetojoaoaugusto@gmail.com](mailto:evangelistanetojoaoaugusto@gmail.com)
 
 ---
 
@@ -68,15 +67,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoaugustoneto/joaoaugustoneto/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaoaugustoneto/joaoaugustoneto/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
----
-
-### Ouvindo Agora no Spotify
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7lu8zwpgn036xnvgui1toag0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify" />
-  </a>
 </div>
 
 ---
