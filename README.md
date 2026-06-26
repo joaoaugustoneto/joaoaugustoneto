@@ -52,7 +52,7 @@
 
 <div align="center">
   <!-- Card de Linhas de Código e Commits Totais -->
-  <img height="55em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoaugustoneto&theme=dracula&background=282a36&ring=ff5555&sideNums=ff79c6" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoaugustoneto&theme=dracula&background=282a36&ring=ff5555&sideNums=ff79c6" alt="Streak Stats" />
 </div>
 
 <br/>
