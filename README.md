@@ -41,15 +41,6 @@
 
 ---
 
-### Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaoaugustoneto&show_icons=true&theme=dracula&title_color=ff5555&icon_color=ff79c6"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaoaugustoneto&layout=compact&langs_count=7&theme=dracula&title_color=ff5555&icon_color=ff79c6"/>
-</div>
-
----
-
 ### Jogo da Cobrinha (Histórico de Contribuições)
 <div align="center">
   <picture>
